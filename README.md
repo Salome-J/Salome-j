@@ -2,7 +2,7 @@
 
 ### Building technology that connects data, systems, and real-world impact. 🌊
 
-I'm a technology professional working across **Cloud, DevOps, System Integration, APIs, CI/CD, Digital Twins, and Blue Economy technologies**.
+I'm a technology professional working across **Cloud, System Integration, APIs, CI/CD, DevOps, Digital Twins, and Blue Economy technologies**.
 
 I enjoy connecting systems, data, and platforms to create practical and scalable technology solutions.
 
@@ -17,7 +17,7 @@ Building technology solutions around ocean, marine, and environmental data.
 Connecting platforms, applications, and data sources through REST APIs and automated workflows.
 
 ☁️ **Cloud & Infrastructure**  
-Working with AWS, Azure, Linux, containers, and cloud-based infrastructure.
+Working with AWS, Azure, Linux, Kubernetes, containers, and cloud-based infrastructure.
 
 ⚙️ **DevOps & CI/CD**  
 Building automated workflows for testing, deployment, infrastructure, and application delivery.
@@ -35,7 +35,7 @@ Exploring how simulation, sensor data, and observational datasets can work toget
 
 **DevOps & Automation**
 
-`Git` `GitHub Actions` `CI/CD` `Terraform` `YAML`
+`Git` `GitHub Actions` `CI/CD` `YAML`
 
 **Development & Integration**
 
@@ -82,8 +82,3 @@ I'm interested in technology, innovation, system integration, and solutions that
 
 
 
-
-
-I'm interested in technology, innovation, system integration, and solutions that create meaningful real-world impact.
-
-**LinkedIn:** [Connect with me on LinkedIn](YOUR-LINKEDIN-LINK)
