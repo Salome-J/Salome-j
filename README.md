@@ -74,9 +74,10 @@ Practical projects covering cloud infrastructure, containers, automation, and CI
 ---
 
 ## 🤝 Let's Connect
+
 I'm interested in technology, innovation, system integration, and solutions that create meaningful real-world impact.
 
-**LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/salome-w-jeremiah-456b43b2)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/salome-w-jeremiah-456b43b2/)
 
 
 
